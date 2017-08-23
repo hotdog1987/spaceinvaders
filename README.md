@@ -1,4 +1,4 @@
-<p>After following the class on coding train, this project is an attempt to make an space - invader look-a-like interaction. </p>
+<p>This project is an attempt to make an space - invader look-a-like interaction. </p>
 
 <p>Steps to be followed for this game:</p>
 <ol>
